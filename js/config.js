@@ -50,7 +50,7 @@ const WEDDING_CONFIG = {
   },
 
   gift: {
-    message: "Your presence means more to us than any gift ever could. Simply being there to celebrate this new chapter with us is the greatest present we could ask for — thank you for being part of our journey."
+    message: "Your presence means more to us than any gift ever could. Simply being there to celebrate this new chapter with us is the greatest present we could ask for — thank you for being part of our journey♡"
   },
 
   verse: {
@@ -83,8 +83,8 @@ const WEDDING_CONFIG = {
     //   [1] after the Countdown (Spring)
     //   [2] after the map (Fall)
     //   [3] between Wishes and Gift (Winter)
-    sectionPhotos: "assets/images/wedding_01.jpg","assets/images/wedding_02.jpg","assets/images/wedding_03.jpg","assets/images/wedding_04.jpg"
+    sectionPhotos: ["assets/images/wedding_01.jpg","assets/images/wedding_02.jpg","assets/images/wedding_03.jpg","assets/images/wedding_04.jpg"]
   },
 
-  closingMessage: "We can't wait to celebrate this new season of our lives with you by our side."
+  closingMessage: "We can't wait to celebrate this new season of our lives with you by our side!"
 };
