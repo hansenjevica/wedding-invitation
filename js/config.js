@@ -73,7 +73,7 @@ const WEDDING_CONFIG = {
   gallery: {
     // Add file paths once photos/video are ready, e.g.
     // "assets/images/photo-01.jpg"
-    images: [],
+    images: "",
     // "assets/video/prewedding.mp4"
     video: "",
     // Up to 4 landscape (16:9) photos shown BETWEEN sections as you scroll
@@ -86,5 +86,5 @@ const WEDDING_CONFIG = {
     sectionPhotos: ["assets/images/wedding_01.jpg", "assets/images/wedding_02.jpg", "assets/images/wedding_03.jpg", "assets/images/wedding_04.jpg"]
   },
 
-  closingMessage: "We can't wait to celebrate this new season of our lives with you by our side."
+  closingMessage: "We can't wait to celebrate this new season of our lives with you by our side!"
 };
