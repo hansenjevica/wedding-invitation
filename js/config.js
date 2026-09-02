@@ -42,13 +42,6 @@ const WEDDING_CONFIG = {
     wishesPollIntervalMs: 20000
   },
 
-  gift: {
-    bankName: "XXX",
-    bankAccountNumber: "XXX",
-    bankAccountHolder: "XXX",
-    giftAddress: "XXX"
-  },
-
   music: {
     // Drop an mp3 in assets/audio/ and point to it here.
     src: "assets/audio/music.mp3"
