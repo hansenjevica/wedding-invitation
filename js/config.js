@@ -83,7 +83,7 @@ const WEDDING_CONFIG = {
     //   [1] after the Countdown (Spring)
     //   [2] after the map (Fall)
     //   [3] between Wishes and Gift (Winter)
-    sectionPhotos: ["", "", "", ""]
+    sectionPhotos: ["assets/images/image-01.jpg", "assets/images/image-02.jpg", "assets/images/image-03.jpg", "assets/images/image-04.jpg"]
   },
 
   closingMessage: "We can't wait to celebrate this new season of our lives with you by our side."
