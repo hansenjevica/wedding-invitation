@@ -67,7 +67,7 @@ const WEDDING_CONFIG = {
 
   music: {
     // Drop an mp3 in assets/audio/ and point to it here.
-    src: "assets/audio/music.mp3"
+    src: "assets/songs/sangjit_song.mp3"
   },
 
   gallery: {
