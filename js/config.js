@@ -73,7 +73,7 @@ const WEDDING_CONFIG = {
   gallery: {
     // Add file paths once photos/video are ready, e.g.
     // "assets/images/photo-01.jpg"
-    images: "",
+    images: ["assets/images/wedding_05.jpg", "assets/images/wedding_08.jpg", "assets/images/wedding_07.jpg", "assets/images/wedding_06.jpg", "assets/images/wedding_09.jpg"],
     // "assets/video/prewedding.mp4"
     video: "",
     // Up to 4 landscape (16:9) photos shown BETWEEN sections as you scroll
