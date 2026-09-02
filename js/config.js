@@ -9,7 +9,7 @@ const WEDDING_CONFIG = {
 
   // Shown in the browser tab / bookmark title, and used as the fallback
   // title search engines and link previews (WhatsApp, etc.) will show.
-  siteTitle: "Hansen & Jevica — The Wedding",
+  siteTitle: "Hansen & Jevica — Wedding Invitation",
 
   // Shown in the opening gate and at the top of the hero section
   logo: "assets/images/logo-wedding.png",
