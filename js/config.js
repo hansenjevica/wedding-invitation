@@ -20,8 +20,8 @@ const WEDDING_CONFIG = {
     brideFullName: "Jevica Ozora",
     brideNickname: "Jevica",
     // Optional — leave as "" to hide the line under each name
-    groomParents: "",
-    brideParents: ""
+    groomParents: "Jonny (✝) & Rosnila",
+    brideParents: "Martin Darsono & Sui Kian"
   },
 
   event: {
