@@ -73,7 +73,7 @@ const WEDDING_CONFIG = {
   gallery: {
     // Add file paths once photos/video are ready, e.g.
     // "assets/images/photo-01.jpg"
-    images: ["assets/images/image-01.jpg","assets/images/image-02.jpg","assets/images/image-03.jpg","assets/images/image-04.jpg"],
+    images: ["assets/images/wedding_01.jpg","assets/images/wedding_02.jpg","assets/images/wedding_03.jpg","assets/images/wedding_04.jpg"],
     // "assets/video/prewedding.mp4"
     video: "",
     // Up to 4 landscape (16:9) photos shown BETWEEN sections as you scroll
@@ -83,7 +83,7 @@ const WEDDING_CONFIG = {
     //   [1] after the Countdown (Spring)
     //   [2] after the map (Fall)
     //   [3] between Wishes and Gift (Winter)
-    sectionPhotos: ["assets/images/image-01.jpg", "assets/images/image-02.jpg", "assets/images/image-03.jpg", "assets/images/image-04.jpg"]
+    sectionPhotos: ""
   },
 
   closingMessage: "We can't wait to celebrate this new season of our lives with you by our side."
