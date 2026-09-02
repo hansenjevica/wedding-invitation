@@ -43,10 +43,6 @@
   setText("eventVenue", CFG.event.venueName);
   setText("mapAddressText", CFG.event.venueName);
 
-  setText("giftBank", `${CFG.gift.bankName} — a/n ${CFG.gift.bankAccountHolder}`);
-  setText("giftAccount", CFG.gift.bankAccountNumber);
-  setText("giftAddress", CFG.gift.giftAddress);
-
   setText("closingMessage", CFG.closingMessage);
 
   // Personalised gate greeting
@@ -306,25 +302,7 @@
   setInterval(loadWishes, CFG.rsvp.wishesPollIntervalMs || 20000);
 
   /* ---------------------------------------------------------------
-     8. Copy bank account number
-  --------------------------------------------------------------- */
-  const copyBtn = document.getElementById("copyAccount");
-  copyBtn.addEventListener("click", async () => {
-    try {
-      await navigator.clipboard.writeText(CFG.gift.bankAccountNumber);
-      copyBtn.textContent = "Copied!";
-      copyBtn.classList.add("copied");
-      setTimeout(() => {
-        copyBtn.textContent = "Copy";
-        copyBtn.classList.remove("copied");
-      }, 1800);
-    } catch (err) {
-      /* clipboard may be unavailable — fail silently */
-    }
-  });
-
-  /* ---------------------------------------------------------------
-     9. Floating background music toggle
+     8. Floating background music toggle
   --------------------------------------------------------------- */
   const musicBtn = document.getElementById("musicBtn");
   const audio = document.getElementById("bgMusic");
