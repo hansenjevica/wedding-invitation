@@ -142,12 +142,12 @@ const WEDDING_CONFIG = {
     // layout adapts automatically. Shown near the end of the page.
     nostalgia: [
       "assets/images/wedding_10.jpg",
-      "assets/images/wedding_11.jpg",
+      "assets/images/wedding_11.JPEG",
       "assets/images/wedding_12.jpg",
       "assets/images/wedding_13.jpg",
       "assets/images/wedding_14.jpg",
       "assets/images/wedding_15.jpg",
-      "assets/images/wedding_16.jpg"
+      "assets/images/wedding_16.JPEG"
     ]
   },
 
