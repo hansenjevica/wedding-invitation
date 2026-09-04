@@ -133,9 +133,9 @@ const WEDDING_CONFIG = {
     //   [2] after the map (Fall)
     //   [3] between Wishes and Gift (Winter)
     sectionPhotos: [
-      "assets/images/wedding_04.jpg",
       "assets/images/wedding_02.jpg",
       "assets/images/wedding_03.jpg",
+      "assets/images/wedding_04.jpg",
       "assets/images/wedding_01.jpg"
     ],
     // Masonry-style "Nostalgia" grid — mixed photo sizes are fine, the
