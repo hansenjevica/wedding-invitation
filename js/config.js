@@ -117,10 +117,10 @@ const WEDDING_CONFIG = {
   gallery: {
     // Shown as a vertically-scrollable photo feed in "Gallery & Video"
     images: [
-      "assets/images/wedding_05.jpg",
+      "assets/images/wedding_06.jpg",
       "assets/images/wedding_08.jpg",
       "assets/images/wedding_07.jpg",
-      "assets/images/wedding_06.jpg",
+      "assets/images/wedding_05.jpg",
       "assets/images/wedding_09.jpg"
     ],
     // "assets/video/prewedding.mp4"
@@ -133,9 +133,9 @@ const WEDDING_CONFIG = {
     //   [2] after the map (Fall)
     //   [3] between Wishes and Gift (Winter)
     sectionPhotos: [
+      "assets/images/wedding_04.jpg",
       "assets/images/wedding_02.jpg",
       "assets/images/wedding_03.jpg",
-      "assets/images/wedding_04.jpg",
       "assets/images/wedding_01.jpg"
     ],
     // Masonry-style "Nostalgia" grid — mixed photo sizes are fine, the
